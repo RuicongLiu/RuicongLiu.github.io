@@ -22,13 +22,13 @@ repository               : "RuicongLiu/RuicongLiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ruicong Liu (刘锐聪)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student at Sato lab@UTokyo"
+  location         : "Tokyo, Japan"
+  employer         : "The University of Tokyo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lruicong@iis.u-tokyo.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
