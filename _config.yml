@@ -219,9 +219,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
-      layout: default
+      layout: single
       author_profile: true
       read_time: true
       comments: true
@@ -230,14 +230,14 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: posts
     values:
       layout: single
       author_profile: true
