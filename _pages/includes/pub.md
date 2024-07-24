@@ -38,6 +38,19 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </p>
 
 <img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+### PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation using Model Variants
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ruicong Liu</strong>, Yunfei Liu, Haofei Wang, Feng Lu <br />
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024 <br /> 
+<a href="https://ieeexplore.ieee.org/abstract/document/10378867/">Paper</a>
+<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
+<!-- <a href="https://github.com/MickeyLLG/UVAGaze">Code</a> -->
+<br />
+</font>
+</p>
+
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
 ### UVAGaze: Unsupervised 1-to-2 Views Adaptation for Gaze Estimation
 <p style="line-height:1.0">
 <font size="2">
@@ -46,6 +59,19 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 <a href="https://arxiv.org/pdf/2312.15644">Paper</a> | 
 <!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
 <a href="https://github.com/MickeyLLG/UVAGaze">Code</a>
+<br />
+</font>
+</p>
+
+<img style="float: left; margin:5px 10px" src="images/papers/iccv-21.png" width="160" height="140">
+### Generalizing gaze estimation with outlier-guided collaborative adaptation
+<p style="line-height:1.0">
+<font size="2">
+Yunfei Liu*, <strong>Ruicong Liu*</strong>, Haofei Wang, Feng Lu <br />
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021 <br /> 
+<a href="http://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Generalizing_Gaze_Estimation_With_Outlier-Guided_Collaborative_Adaptation_ICCV_2021_paper.pdf">Paper</a> | 
+<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
+<a href="https://github.com/DreamtaleCore/PnP-GA">Code</a>
 <br />
 </font>
 </p>
