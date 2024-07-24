@@ -14,6 +14,18 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 </p>
 
 <img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
+### ActionVOS: Actions as Prompts for Video Object Segmentation
+<p style="line-height:1.0">
+<font size="2">
+Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoichi Sato <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
+<a href="https://arxiv.org/pdf/2407.07402">Paper</a> | 
+<a href="https://github.com/ut-vision/ActionVOS">Code</a>
+<br />
+</font>
+</p>
+
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
 <p style="line-height:1.0">
 <font size="2">
