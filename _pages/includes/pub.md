@@ -2,16 +2,16 @@
 # 📝 Publications 
 -----
 <img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
-### VBench: Comprehensive Benchmark Suite for Video Generative Models
+### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span><br />
-<a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
+Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoichi Sato <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
+<a href="https://arxiv.org/pdf/2407.07402">Paper</a> | 
 <!-- <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> | -->
-<a href="https://github.com/Vchitect/VBench">Code</a> |
-<a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
-<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a>
+<a href="https://github.com/ut-vision/ActionVOS">Code</a> |
+<!-- <a href="https://vchitect.github.io/VBench-project/">Project Page</a> | -->
+<!-- <a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a> -->
 <br />
 </font>
 </p>
