@@ -1,0 +1,350 @@
+
+<!doctype html>
+<html>
+<head>
+<title>USI3D</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description"
+			content="Unsupervised Learning for Intrinsic Image Decomposition from a Single Image">
+<link href="assets/bootstrap.min.css" rel="stylesheet" >
+<script src="assets/jquery-3.2.1.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<link href="assets/style.css" rel="stylesheet">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="assets/global_site_tag.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-129271073-1');
+</script>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="USI3D">
+<meta name="twitter:description"
+			content="Unsupervised Learning for Intrinsic Image Decomposition from a Single Image">
+<meta name="twitter:image"
+      content="figures/teaser.jpg">
+<style>
+.paperthumb {
+  float:left; width: 120px; margin: 3px 10px 7px 0;
+}
+.paperdesc {
+  clear: both;
+}
+:target {
+     background-color: yellow;
+}
+.pdemo {
+  overflow-x: auto; text-align: center;
+}
+.pdemo table {
+  display:inline-table;
+}
+.pdemo td {
+  padding: 5px;
+}
+.pdemo .btn.reveal {
+  width: 100%;
+}
+.pdemo .btn {
+  background: #999;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.pdemo .stack {
+  position: relative;
+}
+.pdemo .btn.reveal[data-reveal^=i]:hover {
+  background: rgb(6, 221, 221);
+  color: black;
+}
+.pdemo .btn.reveal[data-reveal=a]:hover {
+  background: lightgreen;
+  color: black;
+}
+.pdemo .btn.reveal[data-reveal=f]:hover {
+  background: lightblue;
+  color: black;
+}
+.pdemo .overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  z-index: 1;
+  transition: opacity 0.5s;
+}
+.pdemo .overlay.visible {
+  opacity: 1;
+}
+</style>
+
+</head>
+<body class="nd-docs">
+<div class="nd-pageheader">
+ <div class="container">
+ <p class="lead">
+ <nobr>Unsupervised Learning for Intrinsic Image Decomposition from a Single Image</nobr>
+<address>
+  <nobr><a href="http://liuyunfei.net"
+  >Yunfei Liu</a><sup>1</sup>,</nobr>
+  <nobr><a href="http://yu-li.github.io"
+  >Yu Li</a><sup>2</sup>,</nobr>
+  <nobr><a href="https://youshaodi.github.io"
+  >Shaodi You</a><sup>3</sup>,</nobr>
+  <nobr><a href="https://shi.buaa.edu.cn/lufeng/en/index.htm"
+  >Feng Lu</a><sup>1,4</sup></nobr>
+ <br>
+  <nobr><sup>1</sup><a href="https://vrlab.buaa.edu.cn">State Key Laboratory of VR Technology and Systems, 
+    School of CSE, Beihang University</a>,&nbsp;&nbsp;</nobr>
+  <nobr><sup>2</sup>Applied Research Center (ARC), Tencent PCG</nobr>
+  <nobr><sup>3</sup><a href="https://www.uva.nl"
+  >University of Amsterdam, Amsterdam, Netherland</a>,&nbsp;&nbsp;</nobr>
+  <nobr><sup>4</sup><a href="https://www.pcl.ac.cn"
+  >Peng Cheng Laboratory, Shenzhen, China</a></nobr>
+</address>
+ </p>
+ </div>
+</div><!-- end nd-pageheader -->
+<div class="container">
+
+<div class="row">
+<div class="col text-center">
+<p>
+<a href="https://github.com/DreamtaleCore/USI3D" class="d-inline-block p-3 align-top"><img height="100" width="78" src="figures/code_snap.png" style="border:1px solid" data-nothumb><br>Code and Data<br>Github</a>
+<a href="https://arxiv.org/abs/1911.09930 " class="d-inline-block p-3 align-top"><img height="100" width="78" src="figures/paper_snap.png" style="border:1px solid" data-nothumb><br>CVPR 2020<br>Paper</a>
+
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+
+
+<p> The Unsupervised Sigle Input Intrinsic Image Decomposition (USI<sup>3</sup>D) 
+directly learns the latent feature of reflectance and shading from unsupervised and uncorrelated data, 
+and relies on neither labelled training data nor hand-crafted priors.
+
+<br>Try it here for a better understanding of intrinsic image decomposition. (Each of results below is generated through our USI<sup>3</sup>D)
+</p>
+
+<div class="pdemo">
+<table>
+  <tr>
+    <td><button class="btn reveal" data-reveal="i">
+        get reflectance</button><div class="stack">
+         <img height="150" width="150" class="overlay i" src="figures/interact_results/shapenet_albedo_1.jpg"
+        ><img height="150" width="150" class="overlay a" src="figures/interact_results/shapenet_shading_1.png"
+        ><img height="150" width="150" src="figures/interact_results/shapenet_in_1.png"></div>
+        <button class="btn reveal" data-reveal="a">
+        get shading</button>
+    </td>
+
+    <td><button class="btn reveal" data-reveal="i">
+        get reflectance</button><div class="stack">
+         <img height="150" width="150" class="overlay i" src="figures/interact_results/shapenet_albedo_2.jpg"
+        ><img height="150" width="150" class="overlay a" src="figures/interact_results/shapenet_shading_2.jpg"
+        ><img height="150" width="150" src="figures/interact_results/shapenet_in_2.jpg"></div>
+        <button class="btn reveal" data-reveal="a">
+        get shading</button>
+    </td>
+
+    <td><button class="btn reveal" data-reveal="i">
+        get reflectance</button><div class="stack">
+         <img height="150" class="overlay i" src="figures/interact_results/mpi_albedo_1.jpg"
+        ><img height="150" class="overlay a" src="figures/interact_results/mpi_shading_1.jpg"
+        ><img height="150" src="figures/interact_results/mpi_in_1.jpg"></div>
+        <button class="btn reveal" data-reveal="a">
+        get shading</button>
+    </td>
+
+    <td><button class="btn reveal" data-reveal="i">
+        get reflectance</button><div class="stack">
+         <img height="150" class="overlay i" src="figures/interact_results/iiw_albedo_1.jpg"
+        ><img height="150" class="overlay a" src="figures/interact_results/iiw_shading_1.jpg"
+        ><img height="150" src="figures/interact_results/iiw_in_1.jpg"></div>
+        <button class="btn reveal" data-reveal="a">
+        get shading</button>
+    </td>
+
+    <td><button class="btn reveal" data-reveal="i">
+        get reflectance</button><div class="stack">
+         <img height="150" class="overlay i" src="figures/interact_results/mit_albedo_1.jpg"
+        ><img height="150" class="overlay a" src="figures/interact_results/mit_shading_1.jpg"
+        ><img height="150" src="figures/interact_results/mit_in_1.jpg"></div>
+        <button class="btn reveal" data-reveal="a">
+        get shading</button>
+    </td>
+    
+  </tr>
+</table>
+<script>
+$(document).on('contextmenu', '.pdemo button', function(ev) {
+  ev.preventDefault();
+});
+$(document).on('mouseenter mousedown click', '.pdemo .reveal', function() {
+  var revealWhich = $(this).data('reveal');
+  $(this).parent().find('.overlay.' + revealWhich).toggleClass('visible', true);
+});
+$(document).on('mouseleave mouseup', '.pdemo .reveal', function() {
+  $(this).parent().find('.overlay').toggleClass('visible', false);
+});
+$(document).on('mouseenter mousedown click', '.pdemo img', function() {
+  $(this).parent().find('.overlay').toggleClass('visible', false);
+});
+$(document).on('click', '.clickselect', function(ev) {
+  var range = document.createRange();
+  range.selectNodeContents(this);
+  var sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+});
+</script>
+</div>
+
+<h2>Motivation</h2>
+
+<p>Previous intrinsic image decomposition algorithms suffer such limitations:</p>
+
+<ol>
+<li>Optimization based methods are not likely to cover <em>complex scenes</em>.
+<li>Supervised learning methods require a mass of labelled training data, which have obvious shortcomings: 1) number of these images are too limited, 2) lack of realistic, 3) annotations are too sparse.
+<li>Semi-supervised learning methods require a series of related images as input (or for train).
+</ol>
+
+<p>In recent years, unsupervised image-to-image translation methods (Cycle GANs,
+<a href="#ref_cycleGAN">Zhu, et al, 2017</a>)
+have demonstrated a remarkable ability to learn the mapping from two image domains.  
+there is still a great gap between unsupervised image-to-image translation between and intrinsic image decomposition because 1) image-to-image are fully statistics driven whereas intrinsic image decomposition is physic-based, 2) the translated image can be various of modalities while the intrinsic images of an input image are explicit. Thus, the image-to-image translation method is not directly adaptable to intrinsic image decomposition.
+
+<p>Our USI<sup>3</sup>D method provides an novel unsupervised learning architecture for single input intrinsic image decomposition.
+
+<style>
+.show-unit {
+  overflow-x: auto;
+}
+.show-unit img {
+  max-height: 80px;
+}
+.explain-unit {
+  text-align: center;
+  margin-bottom: 10px;
+}
+</style>
+
+
+<h2>What is USI<sup>3</sup>D?</h2>
+
+<p>Our paper describes a framework for unsupervised single image intrinsic image decomposition.
+USI<sup>3</sup>D allows us to learn intrinsic image decomposition with <em>un-related</em> data triplets:
+
+<p style="text-align: center"><img src="figures/teaser.jpg"
+    style="max-width:40%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+Our method learns intrinsic image decomposition in an unsupervised fashion where the ground truth reflectance and shading is not available in the training data.
+</p>
+
+<h2>How does USI<sup>3</sup>D work?</h2>
+
+<p>To make the task tractable and as with previous works, we make the following three assumptions:</p>
+
+<ol>
+<li><em>Domain invariant content.</em> Physically, the natural appearance, the reflectance and the shading are all the appearance of a given object.
+<li><em>Reflectance-shading independence.</em> Physically, reflectance is the invariance against lighting and orientation while shading is the variance.
+<li><em>The latent code encoders are reversible.</em> In detail, it assumes an image can be encoded into the latent code, which can be decoded to image at the same time.
+</ol>
+
+<p style="text-align: center"><img src="figures/concept.png"
+    style="max-width:20%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+    Relationships among three assumptions.
+</p>
+
+<p style="text-align: center"><img src="figures/main_image.jpg"
+    style="max-width:60%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+    The proposed architecture.
+</p>
+
+
+<h2>More Visual Results on Benchmark Datasets</h2>
+
+<p>More results on MPI Sintel benchmark and IIW dataset are shown as following two figures.
+
+<p style="text-align: center"><img src="figures/MPI-results.jpg"
+    style="max-width:80%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+    Visual results on MPI Sintel benchmark. Note that MSCR and FY18 are supervised methods that can only serve as reference.
+</p>
+
+<p style="text-align: center"><img src="figures/IIW-results.png"
+    style="max-width:80%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+    Visual results on IIW dataset.
+</p>
+
+<h2>Related Work</h2>
+
+<p class="paperdesc">
+<a href="http://yu-li.github.io/paper/li_cvpr14_layer.pdf" name="ref_Layer">
+<img src="figures/thumb_li_cvpr14_layer.jpg" class="paperthumb">
+Yu Li, Michael S. Brown, <em>Single Image Layer Separation using Relative Smoothness.</em>. CVPR 2014.</a>
+This paper addresses extracting two layers from an image where one layer is smoother than the other. The problem is formulated in a probabilistic framework and an optimization scheme is described to solve this regularization with only a few iterations.
+
+<p class="paperdesc">
+    <a href="https://junyanz.github.io/CycleGAN/" name="ref_cycleGAN">
+    <img src="figures/thumb_cycleGAN.png" class="paperthumb">
+    Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. <em>Unpaired image-to-image translation using cycle consistent adversarial networks</em>. ICCV, 2017.</a>
+    CycleGAN: Add cycle consistent to image-to-image translation.
+
+<p class="paperdesc">
+<a href="https://github.com/fqnchina/IntrinsicImage/" name="ref_FY18">
+<img src="figures/thumb_FY18.png" class="paperthumb">
+Qingnan Fan, Jiaolong Yang, Gang Hua, Baoquan Chen, and DavidWipf. <em>Revisiting deep intrinsic image decompositions</em>. CVPR, 2018.</a>
+This paper solves the intrinsic image decomposition problem using a unified fully supervised architecture that produces
+state-of-the-art results, with a minimal computational footprint, whether trained on weakly labeled pairwise comparison from IIW data or dense ground truth images from MIT or MPI-Sintel datasets.
+
+<p class="paperdesc">
+<a href="https://github.com/NVlabs/MUNIT/" name="ref_MUNIT">
+<img src="figures/thumb_MUNIT.png" class="paperthumb">
+Xun Huang, Ming-Yu Liu, Serge Belongie, and Kautz Jan. <em>Multimodal unsupervised image-to-image translation.</em> In ECCV, 2018. </a>
+MUINT: presents a framework for multimodal unsupervised image-to-image translation. The model achieves quality and diversity superior to existing unsupervised methods and comparable to state-of-the-art supervised approach. 
+<p> 
+
+<h2>How to cite</h2>
+
+<p>
+<div class="card">
+<h3 class="card-header">Bibtex</h3>
+<div class="card-block">
+<pre class="card-text clickselect">
+
+@inproceedings{liu2020usi3d,
+ title={Unsupervised Learning for Intrinsic Image Decomposition from a Single Image},
+ author={Liu, Yunfei and You, Shaodi and Li, Yu and Lu, Feng},
+ booktitle={CVPR},
+ year={2020}
+}
+</pre>
+</div>
+</div>
+</p>
+
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+<h2></h2>
+<p><a name="acknowledgments"><strong>Acknowledgments</strong></a>: This work is partially supported by the National Natural Science Foundation of China (NSFC) under Grant 61972012 and Grant 61732016, and Baidu academic collaboration program.
+</p>
+</div>
+</div> <!-- row -->
+
+</div> <!-- container -->
+
+</body>
+</html>

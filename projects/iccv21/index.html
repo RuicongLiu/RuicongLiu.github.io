@@ -1,0 +1,242 @@
+
+<!doctype html>
+<html>
+<head>
+<title>PnP-GA</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description"
+			content="Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation">
+<link href="assets/bootstrap.min.css" rel="stylesheet" >
+<script src="assets/jquery-3.2.1.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<link href="assets/style.css" rel="stylesheet">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="assets/global_site_tag.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-129271073-1');
+</script>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PnP-GA">
+<meta name="twitter:description"
+			content="Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation">
+<meta name="twitter:image"
+      content="figures/teaser.png">
+<style>
+.paperthumb {
+  float:left; width: 120px; margin: 3px 10px 7px 0;
+}
+.paperdesc {
+  clear: both;
+}
+:target {
+     background-color: yellow;
+}
+.pdemo {
+  overflow-x: auto; text-align: center;
+}
+.pdemo table {
+  display:inline-table;
+}
+.pdemo td {
+  padding: 5px;
+}
+.pdemo .btn.reveal {
+  width: 100%;
+}
+.pdemo .btn {
+  background: #999;
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.pdemo .stack {
+  position: relative;
+}
+.pdemo .btn.reveal[data-reveal^=i]:hover {
+  background: rgb(6, 221, 221);
+  color: black;
+}
+.pdemo .btn.reveal[data-reveal=a]:hover {
+  background: lightgreen;
+  color: black;
+}
+.pdemo .btn.reveal[data-reveal=f]:hover {
+  background: lightblue;
+  color: black;
+}
+.pdemo .overlay {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  z-index: 1;
+  transition: opacity 0.5s;
+}
+.pdemo .overlay.visible {
+  opacity: 1;
+}
+</style>
+
+</head>
+<body class="nd-docs">
+<div class="nd-pageheader">
+ <div class="container">
+ <p class="lead">
+ <nobr>Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation</nobr>
+<address>
+  <nobr><a href="http://liuyunfei.net"
+  >Yunfei Liu</a><sup>1,†</sup>,</nobr>
+  <nobr><a href="http://www.github.com/MickeyLLG"
+  >Ruicong Liu</a><sup>1,†</sup>,</nobr>
+  <nobr><a href="https://scholar.google.com.hk/citations?user=ktnnNlgAAAAJ&hl=zh-CN"
+  >Haofei Wang</a><sup>2</sup>,</nobr>
+  <nobr><a href="https://shi.buaa.edu.cn/lufeng/en/index.htm"
+  >Feng Lu</a><sup>1,2,</sup></nobr>
+ <br>
+  <nobr><sup>1</sup><a href="https://vrlab.buaa.edu.cn">State Key Laboratory of VR Technology and Systems, 
+    School of CSE, Beihang University</a>,&nbsp;&nbsp;</nobr>
+  <nobr><sup>2</sup><a href="https://www.pcl.ac.cn"
+  >Peng Cheng Laboratory, Shenzhen, China</a></nobr>
+  <nobr><br>† denotes equal contribution, * denotes corresponding author</nobr>
+</address>
+ </p>
+ </div>
+</div><!-- end nd-pageheader -->
+<div class="container">
+
+<div class="row">
+<div class="col text-center">
+<p>
+<a href="https://github.com/DreamtaleCore/PnP-GA" class="d-inline-block p-3 align-top"><img height="100" width="78" src="figures/code_snap.png" style="border:1px solid" data-nothumb><br>Code and Data<br>Github</a>
+<a href="http://arxiv.org/abs/2107.13780" class="d-inline-block p-3 align-top"><img height="100" width="78" src="figures/paper_snap.png" style="border:1px solid" data-nothumb><br>ICCV 2021<br>Paper</a>
+
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+
+
+<p> The Plug-and-Play Gaze Adaptation (PnP-GA) framework is  an ensemble of networks that learn collaboratively with the guidance of outliers.</p>
+
+<p> Since our proposed framework does not require ground-truth labels in the target domain, the   existing gaze estimation networks can be directly plugged into PnP-GA and generalize the algorithms to new domains.</p>
+
+<h2>Motivation</h2>
+
+<p>Due to the differences of subjects, background environments, and illuminations between these datasets, the performance of gaze estimation models that are trained on a single dataset usually dramatically degrades when testing on a new dataset.</p>
+
+<p style="text-align: center"><img src="figures/cmp.png"
+  style="max-width:50%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+  Differences among the domain adaptation approaches.
+</p>
+
+<p>Unlike most of the existing works in gaze domain adaptation following supervised learning paradigm, this work aims to generalize the gaze estimation in an unsupervised manner. The above table shows the differences between the existing gaze domain adaptation approaches and UDA.
+
+<p>Our PnP-GA method provides an novel unsupervised domain adaptation architecture for gaze estimation.
+
+<style>
+.show-unit {
+  overflow-x: auto;
+}
+.show-unit img {
+  max-height: 80px;
+}
+.explain-unit {
+  text-align: center;
+  margin-bottom: 10px;
+}
+</style>
+
+
+<h2>What is PnP-GA</h2>
+
+<p>Our paper describes a UDA framework for gaze estimation. To be specific, we propose an outlier-guided plug-andplay collaborative learning framework for generalizing gaze estimation with unsupervised domain adaptation.
+
+<p style="text-align: center"><img src="figures/teaser.png"
+    style="max-width:50%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+  Overview of the proposed Plug-and-Play (PnP) adaption framework for generalizing gaze estimation to a new domain.
+</p>
+
+<p>PnP-GA has several good properties:</p>
+
+<ol>
+<li>PnP-GA is <em>model agnostic</em>. Existing gaze estimation networks can be easily plugged
+  into our framework without modification of their architectures.
+<li>It only requires a few samples from the target domain without any labels. 
+<li>An outlier-guided loss is specifically designed to better characterize the outliers and guide
+  the learning.
+<li>The PnP-GA framework shows exceptional performances with plugging of the existing gaze estimation
+  networks across different domains.
+</ol>
+
+<h2>How does PnP-GA work?</h2>
+
+<p>Our key idea is to guide the learning by the prediction outliers, which is generated by a group of members.
+
+<p style="text-align: center"><img src="figures/concept.png"
+    style="max-width:50%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+  Illustration of unsupervised domain adaptation for gaze estimation.
+</p>
+
+<p> As illustrated in the figure below, at first, a group of pre-trained models (with members' number = H) are plugged into our PnP-GA. The architecture of PnP-GA is illustrated in the dark dashed box. Then a few samples from the source domain and the target domain are used for adaptation. In the next, our PnP-GA collaboratively learns from both domains. During adaptation, an outlier-guided loss is proposed to better characterize the property of outliers. After adaptation, the first member of the model group is used as an adapted model, which achieves a better performance in the target domain.
+
+<p style="text-align: center"><img src="figures/main_image.png"
+    style="max-width:85%"></p>
+<p style="text-align: center; margin-bottom: 50px;">
+    The proposed architecture.
+</p>
+
+<h2>Results</h2>
+
+<p> <b>Numerical results.</b> Domain adaptation results of plugging the existing gaze estimation networks into the proposed PnP-GA framework. Angular gaze error (degree) is used as evaluation metric.
+
+<p style="text-align: center"><img src="figures/numerical_rlt.png"
+    style="max-width:80%"></p>
+
+<p><b>Visual results.</b> Visual results example of estimated 3D gaze. Red points represent the ground-truth gaze direction, green and blue points represent the predictions before and after adaptation, respectively.
+
+<p style="text-align: center"><img src="figures/visual_rlt.png"
+    style="max-width:60%"></p>
+
+<h2>How to cite</h2>
+
+<p>
+<div class="card">
+<h3 class="card-header">Bibtex</h3>
+<div class="card-block">
+<pre class="card-text clickselect">
+
+@inproceedings{liu2021PnP_GA,
+  title={Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation},
+  author={Liu, Yunfei and Liu, Ruicong and Wang, Haofei and Lu, Feng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2021}
+}
+</pre>
+</div>
+</div>
+</p>
+
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+<h2></h2>
+<p><a name="acknowledgments"><strong>Acknowledgments</strong></a>: This work is partially supported by the National Natural Science Foundation of China (NSFC) under Grant 61972012 and Grant 61732016, and Baidu academic collaboration program.
+</p>
+</div>
+</div> <!-- row -->
+
+</div> <!-- container -->
+
+</body>
+</html>
