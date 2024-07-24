@@ -44,8 +44,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <strong>Ruicong Liu</strong>, Yunfei Liu, Haofei Wang, Feng Lu <br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024 <br /> 
 <a href="https://ieeexplore.ieee.org/abstract/document/10378867/">Paper</a>
-<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
-<!-- <a href="https://github.com/MickeyLLG/UVAGaze">Code</a> -->
 <br />
 </font>
 </p>
@@ -57,7 +55,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <strong>Ruicong Liu</strong>, Feng Lu <br />
 AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br /> 
 <a href="https://arxiv.org/pdf/2312.15644">Paper</a> | 
-<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
 <a href="https://github.com/MickeyLLG/UVAGaze">Code</a>
 <br />
 </font>
@@ -70,7 +67,6 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 Yunfei Liu*, <strong>Ruicong Liu*</strong>, Haofei Wang, Feng Lu <br />
 IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2021 <br /> 
 <a href="http://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Generalizing_Gaze_Estimation_With_Outlier-Guided_Collaborative_Adaptation_ICCV_2021_paper.pdf">Paper</a> | 
-<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
 <a href="https://github.com/DreamtaleCore/PnP-GA">Code</a>
 <br />
 </font>
@@ -83,8 +79,6 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 <strong>Ruicong Liu</strong>, Yiwei Bao, Mingjie Xu, Haofei Wang, Yunfei Liu, Feng Lu <br />
 arXiv preprint arXiv:2210.02082 <br /> 
 <a href="https://arxiv.org/pdf/2210.02082">Paper</a> 
-<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
-<!-- <a href="https://github.com/DreamtaleCore/PnP-GA">Code</a> -->
 <br />
 </font>
 </p>
