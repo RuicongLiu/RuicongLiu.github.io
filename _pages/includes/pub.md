@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 -----
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="140">
 ### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
