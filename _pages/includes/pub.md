@@ -9,7 +9,7 @@
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <br /> 
 <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Single-to-Dual-View_Adaptation_for_Egocentric_3D_Hand_Pose_Estimation_CVPR_2024_paper.pdf">Paper</a> | 
 <!-- <a href="https://youtu.be/lS5IYbAqriI">Video</a> | -->
-<a href="https://github.com/ut-vision/S2DHand">Code</a> |
+<a href="https://github.com/ut-vision/S2DHand">Code</a>
 <!-- <a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> | -->
 <!-- <a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a> -->
 <br />
