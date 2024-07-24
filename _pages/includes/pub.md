@@ -2,16 +2,16 @@
 # 📝 Publications 
 -----
 <img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
-### FreeInit : Bridging Initialization Gap in Video Diffusion Models
+### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
 <font size="2">
-**Ruicong Liu**, Takehiko Ohkawa, Mingfang Zhang, Yoichi Sato
-European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
-<a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
-<a href="https://youtu.be/lS5IYbAqriI">Video</a> |
-<a href="https://github.com/TianxingWu/FreeInit">Code</a> |
-<a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> |
-<a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a>
+<strong>Ruicong Liu</strong>, Takehiko Ohkawa, Mingfang Zhang, Yoichi Sato
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <br /> 
+<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Single-to-Dual-View_Adaptation_for_Egocentric_3D_Hand_Pose_Estimation_CVPR_2024_paper.pdf">Paper</a> | 
+<!-- <a href="https://youtu.be/lS5IYbAqriI">Video</a> | -->
+<a href="https://github.com/ut-vision/S2DHand">Code</a> |
+<!-- <a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> | -->
+<!-- <a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a> -->
 <br />
 </font>
 </p>
