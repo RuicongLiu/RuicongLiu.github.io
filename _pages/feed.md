@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Hello~"
-permalink: /feed/
+permalink: /feed.xml/
 author_profile: true
 ---
