@@ -8,10 +8,7 @@
 Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoichi Sato <br />
 European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 <a href="https://arxiv.org/pdf/2407.07402">Paper</a> | 
-<!-- <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> | -->
 <a href="https://github.com/ut-vision/ActionVOS">Code</a>
-<!-- <a href="https://vchitect.github.io/VBench-project/">Project Page</a> | -->
-<!-- <a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a> -->
 <br />
 </font>
 </p>
@@ -23,10 +20,6 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 Mingfang Zhang, Yifei Huang, <strong>Ruicong Liu</strong>, Yoichi Sato <br />
 European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
 <a href="https://arxiv.org/pdf/2407.06628">Paper</a> 
-<!-- <a href="https://youtu.be/lS5IYbAqriI">Video</a> | -->
-<!-- <a href="https://github.com/ut-vision/S2DHand">Code</a> -->
-<!-- <a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> | -->
-<!-- <a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a> -->
 <br />
 </font>
 </p>
@@ -44,7 +37,20 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+### UVAGaze: Unsupervised 1-to-2 Views Adaptation for Gaze Estimation
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ruicong Liu</strong>, Feng Lu <br />
+AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br /> 
+<a href="https://arxiv.org/pdf/2312.15644">Paper</a> | 
+<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
+<a href="https://github.com/MickeyLLG/UVAGaze">Code</a>
+<br />
+</font>
+</p>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffSHEG: A Diffusion-Based Approach for Real-Time Speech-driven Holistic 3D Expression and Gesture Generation](https://arxiv.org/abs/2401.04747)
@@ -163,4 +169,4 @@ Mingfang Zhang, **Yunfei Liu**, Feng Lu
 - `arXiv 2021` [Vulnerability of Appearance-based Gaze Estimation](https://arxiv.org/abs/2103.13134), Mingjie Xu, Haofei Wang, **Yunfei Liu**, Feng Lu.
 - `AAAI 2020` [Separate In Latent Space: Unsupervised Single Image Layer Separation](https://arxiv.org/abs/1906.00734), **Yunfei Liu**, Feng Lu. [GitHub](https://github.com/DreamtaleCore/SILS) [<font color=Red>Oral</font>]
 - `ICPR 2020` [Adaptive Feature Fusion Network for Gaze Tracking in Mobile Tablets](https://arxiv.org/abs/2103.11119), Yiwei Bao, Yihua Cheng, **Yunfei Liu**, Feng Lu. [GitHub](https://github.com/kirito12138/AFF-Net).
-- `ACM-MM 2019` [What I See Is What You See: Joint Attention Learning for First and Third Person Video Co-analysis](https://arxiv.org/abs/1904.07424), Huangyue Yu, Minjie Cai, **Yunfei Liu**, Feng Lu.
+- `ACM-MM 2019` [What I See Is What You See: Joint Attention Learning for First and Third Person Video Co-analysis](https://arxiv.org/abs/1904.07424), Huangyue Yu, Minjie Cai, **Yunfei Liu**, Feng Lu. -->
