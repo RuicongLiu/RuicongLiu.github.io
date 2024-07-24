@@ -12,7 +12,8 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 <br />
 </font>
 </p>
------
+<br />
+
 <img style="float: left; margin:5px 10px" src="images/500x300.png" width="210" height="160">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
 <p style="line-height:1.0">
