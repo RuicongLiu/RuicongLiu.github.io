@@ -1,11 +1,26 @@
 
 # 📝 Publications 
 -----
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
+### VBench: Comprehensive Benchmark Suite for Video Generative Models
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span><br />
+<a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
+<!-- <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> | -->
+<a href="https://github.com/Vchitect/VBench">Code</a> |
+<a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
+<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a>
+<br />
+</font>
+</p>
+
 <img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
 <p style="line-height:1.0">
 <font size="2">
-Mingfang Zhang, Yifei Huang, <strong>Ruicong Liu</strong>, Yoichi Sato.
+Mingfang Zhang, Yifei Huang, <strong>Ruicong Liu</strong>, Yoichi Sato <br />
 European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
 <a href="https://arxiv.org/pdf/2407.06628">Paper</a> 
 <!-- <a href="https://youtu.be/lS5IYbAqriI">Video</a> | -->
@@ -20,26 +35,11 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 ### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ruicong Liu</strong>, Takehiko Ohkawa, Mingfang Zhang, Yoichi Sato.
+<strong>Ruicong Liu</strong>, Takehiko Ohkawa, Mingfang Zhang, Yoichi Sato <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <br /> 
 <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Single-to-Dual-View_Adaptation_for_Egocentric_3D_Hand_Pose_Estimation_CVPR_2024_paper.pdf">Paper</a> | 
 <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> |
 <a href="https://github.com/ut-vision/S2DHand">Code</a>
-<br />
-</font>
-</p>
-
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
-### VBench: Comprehensive Benchmark Suite for Video Generative Models
-<p style="line-height:1.0">
-<font size="2">
-<strong>Ziqi Huang*</strong>, Yinan He*, Jiashuo Yu*, Fan Zhang*, Chenyang Si, Yuming Jiang, Yuanhan Zhang, Tianxing Wu, Qingyang Jin, Nattapol Chanpaisit, Yaohui Wang, Xinyuan Chen, Limin Wang, Dahua Lin†, Yu Qiao†, Ziwei Liu† <br />
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024 <span style="color:red; font-weight:bold">(Highlight)</span><br />
-<a href="https://arxiv.org/abs/2311.17982">Paper</a> | 
-<!-- <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> | -->
-<a href="https://github.com/Vchitect/VBench">Code</a> |
-<a href="https://vchitect.github.io/VBench-project/">Project Page</a> |
-<a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a>
 <br />
 </font>
 </p>
