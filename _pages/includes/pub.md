@@ -14,12 +14,12 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 </p> -->
 
 <img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
-### PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation using Model Variants
+### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
-<strong>Ruicong Liu</strong>, Yunfei Liu, Haofei Wang, Feng Lu <br />
-IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024 <br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10378867/">Paper</a>
+Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoichi Sato <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
+<a href="https://arxiv.org/pdf/2407.07402">Paper</a>
 <br />
 </font>
 </p>
