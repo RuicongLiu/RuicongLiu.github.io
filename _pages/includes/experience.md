@@ -2,6 +2,7 @@
 # 💼 Experiences 
 -----
 <img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="140">
+<div style="clear: both;"></div>
 ### Visiting Scholar - [CVML@NUS](https://cvml.comp.nus.edu.sg/)
 <p style="line-height:1.0">
 <font size="2">
@@ -10,3 +11,4 @@ March 2024 - Present
 <br />
 </font>
 </p>
+
