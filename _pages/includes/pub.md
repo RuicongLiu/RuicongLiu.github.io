@@ -1,11 +1,11 @@
 
 # 📝 Publications 
-
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
+-----
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
 ### FreeInit : Bridging Initialization Gap in Video Diffusion Models
 <p style="line-height:1.0">
 <font size="2">
-Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
+**Ruicong Liu**, Takehiko Ohkawa, Mingfang Zhang, Yoichi Sato
 European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
 <a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
 <a href="https://youtu.be/lS5IYbAqriI">Video</a> |
