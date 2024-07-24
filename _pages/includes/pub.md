@@ -1,6 +1,21 @@
 
 # 📝 Publications 
 
+<img style="float: left; margin:5px 10px" src="../images/paper_teasers/freeinit.mp4" width="160" height="140">
+### FreeInit : Bridging Initialization Gap in Video Diffusion Models
+<p style="line-height:1.0">
+<font size="2">
+Tianxing Wu, Chenyang Si, Yuming Jiang, <strong>Ziqi Huang</strong>, Ziwei Liu† <br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
+<a href="https://arxiv.org/abs/2312.07537">Paper</a> | 
+<a href="https://youtu.be/lS5IYbAqriI">Video</a> |
+<a href="https://github.com/TianxingWu/FreeInit">Code</a> |
+<a href="https://tianxingwu.github.io/pages/FreeInit/">Project Page</a> |
+<a href="https://huggingface.co/spaces/TianxingWu/FreeInit">Demo</a>
+<br />
+</font>
+</p>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
