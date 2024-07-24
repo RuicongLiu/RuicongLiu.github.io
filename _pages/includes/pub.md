@@ -76,6 +76,20 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </font>
 </p>
 
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+### Jitter does matter: Adapting gaze estimation to new domains
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ruicong Liu</strong>, Yiwei Bao, Mingjie Xu, Haofei Wang, Yunfei Liu, Feng Lu <br />
+arXiv preprint arXiv:2210.02082 <br /> 
+<a href="https://arxiv.org/pdf/2210.02082">Paper</a> 
+<!-- <a href="https://www.youtube.com/watch?v=EzlmIre1PCY&t=25s">Video</a> | -->
+<!-- <a href="https://github.com/DreamtaleCore/PnP-GA">Code</a> -->
+<br />
+</font>
+</p>
+
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
