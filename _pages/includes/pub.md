@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 -----
-<img style="float: left; margin:5px 10px" src="../images/paper_teasers/vbench_cropped.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
 ### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
@@ -9,7 +9,7 @@ Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoi
 European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 <a href="https://arxiv.org/pdf/2407.07402">Paper</a> | 
 <!-- <a href="https://www.youtube.com/watch?v=7IhCC8Qqn8Y">Video</a> | -->
-<a href="https://github.com/ut-vision/ActionVOS">Code</a> |
+<a href="https://github.com/ut-vision/ActionVOS">Code</a>
 <!-- <a href="https://vchitect.github.io/VBench-project/">Project Page</a> | -->
 <!-- <a href="https://huggingface.co/spaces/Vchitect/VBench_Leaderboard">Demo</a> -->
 <br />
