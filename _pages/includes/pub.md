@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 -----
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
 ### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
@@ -13,7 +13,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
 <p style="line-height:1.0">
 <font size="2">
@@ -24,7 +24,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
 ### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
 <font size="2">
@@ -37,7 +37,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
 ### PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation using Model Variants
 <p style="line-height:1.0">
 <font size="2">
@@ -50,7 +50,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
 ### UVAGaze: Unsupervised 1-to-2 Views Adaptation for Gaze Estimation
 <p style="line-height:1.0">
 <font size="2">
@@ -63,7 +63,7 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="images/papers/iccv-21.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/papers/iccv-21.png" width="200" height="160">
 ### Generalizing gaze estimation with outlier-guided collaborative adaptation
 <p style="line-height:1.0">
 <font size="2">
@@ -76,7 +76,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </font>
 </p>
 
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="200" height="160">
 ### Jitter does matter: Adapting gaze estimation to new domains
 <p style="line-height:1.0">
 <font size="2">
