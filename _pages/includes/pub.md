@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 -----
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="images/500x300.png" width="160">
 ### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
 <font size="2">
