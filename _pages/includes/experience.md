@@ -1,7 +1,7 @@
 
 # 💻 Experiences 
 -----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div>
+<div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/experiences/cvml-nus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Visiting Scholar - [CVML@NUS](https://cvml.comp.nus.edu.sg/)
