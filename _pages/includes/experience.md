@@ -13,5 +13,5 @@ March 2024 - Present
 <br />
 
 ## Reviewer:
-- Conference Reviewer: CVPR (Outstading reviewer 2024), ECCV, BMVC
+- Conference Reviewer: CVPR (Outstanding reviewer 2024), ECCV, BMVC
 - Journal Reviewer: TMM
