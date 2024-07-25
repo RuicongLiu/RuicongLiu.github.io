@@ -1,10 +1,10 @@
 
 # 💻 Experiences 
 -----
-<img style="float: left; margin:5px 10px" src="images/experiences/cvml-nus.png" width="300" height="230">
+<img style="float: left; margin:5px 10px" src="images/experiences/cvml-nus.png" width="260" height="200">
 ### Visiting Scholar - [CVML@NUS](https://cvml.comp.nus.edu.sg/)
 <p style="line-height:1.0">
-<font size="3">
+<font size="2">
 National University of Singapore <br />
 March 2024 - Present
 <br />
