@@ -40,7 +40,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/tpami-24-pnpga+" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/tpami-24-pnpga+.png" width="210" height="160">
 ### PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation using Model Variants
 <p style="line-height:1.0">
 <font size="2">

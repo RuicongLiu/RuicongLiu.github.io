@@ -21,7 +21,7 @@ repository               : "RuicongLiu/RuicongLiu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Ruicong Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Sato lab@UTokyo"
