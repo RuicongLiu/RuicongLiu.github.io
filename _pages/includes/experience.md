@@ -1,7 +1,7 @@
 
 # 💻 Experiences 
 -----
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/experiences/cvml-nus.png" width="210" height="160">
 ### Visiting Scholar - [CVML@NUS](https://cvml.comp.nus.edu.sg/)
 <p style="line-height:1.0">
 <font size="2">
