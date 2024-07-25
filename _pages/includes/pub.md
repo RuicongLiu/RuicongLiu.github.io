@@ -92,7 +92,7 @@ arXiv preprint arXiv:2210.02082 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/papers/iccv-21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Generalizing gaze estimation with outlier-guided collaborative adaptation
+### Generalizing gaze estimation with outlier-guided collaborative adaptation
 <p style="line-height:1.0">
 <font size="2">
 Yunfei Liu*, <strong>Ruicong Liu*</strong>, Haofei Wang, Feng Lu <br />
@@ -102,4 +102,6 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 <br />
 </font>
 </p>
+</div>
+</div>
 <br />
