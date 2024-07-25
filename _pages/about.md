@@ -27,7 +27,10 @@ redirect_from:
 
 {% include_relative includes/edu.md %}
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UBZjxLR8-IEyUg-87Gwe1QdUBb5_7pVF0aI2ReETFso&cl=ffffff&w=a"></script>
+<div id="clustrmaps-container" style="width: 280px; height: 200px;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UBZjxLR8-IEyUg-87Gwe1QdUBb5_7pVF0aI2ReETFso&cl=ffffff&w=a"></script>
+</div>
+
 <!-- # 💬 Invited Talks
 -----
 - *2021.06*, Visual intelligence for enhanced perception, Huawei internal talk
