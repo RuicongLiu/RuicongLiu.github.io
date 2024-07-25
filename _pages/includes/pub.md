@@ -26,24 +26,6 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </p>
 <br />
 
-<div style="position: relative; display: inline-block;">
-  <img style="float: left; margin:5px 10px" src="images/papers/eccv-24-mae.png" width="260" height="200">
-  <div style="position: absolute; top: 10px; left: 10px; background: #000080; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
-    ECCV 2024
-  </div>
-</div>
-### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
-<p style="line-height:1.0">
-<font size="2">
-Mingfang Zhang, Yifei Huang, <strong>Ruicong Liu</strong>, Yoichi Sato <br />
-European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
-<a href="https://arxiv.org/pdf/2407.06628">Paper</a> 
-<br />
-</font>
-</p>
-<br />
-
-
 <img style="float: left; margin:5px 10px" src="images/papers/cvpr-24-s2dhand.png" width="260" height="200">
 ### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
