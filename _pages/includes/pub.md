@@ -90,3 +90,15 @@ arXiv preprint arXiv:2210.02082 <br />
 </p>
 <br />
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/papers/iccv-21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generalizing Gaze Estimation with Outlier-guided Collaborative Adaptation](http://arxiv.org/abs/2107.13780)
+
+**Yunfei Liu**\*, Ruicong Liu\*, Haofei Wang, Feng Lu
+
+[**Project**](projects/iccv21/index.html) <strong><span class='show_paper_citations' data='B1Z1vTMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- PnP-GA is an ensemble of networks that learn collaboratively with the guidance of outliers.
+- Existing gaze estimation networks can be directly plugged into PnP-GA and generalize the algorithms to new domains.
+</div>
+</div>
