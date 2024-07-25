@@ -1,9 +1,9 @@
 
 # 📝 Publications 
 -----
-<div style="position: relative; display: inline-block;">
+<div style="float: left; margin:5px 10px position: relative; display: inline-block;">
 <img style="float: left; margin:5px 10px" src="images/papers/eccv-24-actionvos.png" width="260" height="200">
-<div style="position: absolute; top: 0; left: 0; background: #000080; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">
+<div style="position: absolute; top: 0; left: 0; background: #000080; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 3px;">
     ECCV 2024
   </div>
 </div>
