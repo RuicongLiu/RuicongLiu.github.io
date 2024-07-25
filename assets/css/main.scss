@@ -47,7 +47,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     // border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1em 0 1em 0;
     
 
     .paper-box-image{
@@ -56,8 +56,8 @@
         width: 100%;
         order: 2;
         img {
-            max-width: 260px;
-            max-height: 200px;
+            max-width: 280px;
+            max-height: 210px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
@@ -78,7 +78,7 @@
         
         .paper-box-text{
             justify-content: left;
-            padding-left: 1em;
+            padding-left: 0em;
             max-width: 60%;
             order: 2;
         }
@@ -88,7 +88,7 @@
 
 }
 
-$scroll_offset : 2em;
+$scroll_offset : 1em;
 h1:before, .anchor:before { 
     content: ''; 
     display: block; 
