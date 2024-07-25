@@ -15,7 +15,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 </font>
 </p>
 </div>
-</div
+</div>
 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div>
@@ -31,11 +31,11 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </font>
 </p>
 </div>
-</div
+</div>
 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div>
-<img src='images/papers/cvpr-24-s2dhand' alt="sym" width="100%"></div></div>
+<img src='images/papers/cvpr-24-s2dhand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
@@ -49,7 +49,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 </div>
-</div
+</div>
 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div>
@@ -65,7 +65,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </font>
 </p>
 </div>
-</div
+</div>
 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div>
@@ -82,7 +82,7 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 </font>
 </p>
 </div>
-</div
+</div>
 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div>
@@ -115,6 +115,6 @@ arXiv preprint arXiv:2210.02082 <br />
 </font>
 </p>
 </div>
-</div
+</div>
 <br />
 
