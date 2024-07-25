@@ -1,7 +1,9 @@
 
 # 📝 Publications 
 -----
-<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-actionvos.png" width="260" height="200">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div>
+<img src='images/papers/eccv-24-actionvos.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
@@ -12,9 +14,13 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 <br />
 </font>
 </p>
+</div>
+</div
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-mae.png" width="260" height="200">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div>
+<img src='images/papers/eccv-24-mae.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
 <p style="line-height:1.0">
 <font size="2">
@@ -24,9 +30,13 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 <br />
 </font>
 </p>
+</div>
+</div
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/cvpr-24-s2dhand.png" width="260" height="200">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div>
+<img src='images/papers/cvpr-24-s2dhand' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
 <font size="2">
@@ -38,9 +48,13 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <br />
 </font>
 </p>
+</div>
+</div
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/tpami-24-pnpga+.png" width="260" height="200">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div>
+<img src='images/papers/tpami-24-pnpga+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ### PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation using Model Variants
 <p style="line-height:1.0">
 <font size="2">
@@ -50,9 +64,13 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 <br />
 </font>
 </p>
+</div>
+</div
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/aaai-24-uvagaze.png" width="260" height="200">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div>
+<img src='images/papers/aaai-24-uvagaze.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 ### UVAGaze: Unsupervised 1-to-2 Views Adaptation for Gaze Estimation
 <p style="line-height:1.0">
 <font size="2">
@@ -63,6 +81,8 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 <br />
 </font>
 </p>
+</div>
+</div
 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div>
@@ -83,7 +103,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 <br />
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/papers/arxiv-22-jitter' alt="sym" width="100%"></div></div>
+<img src='images/papers/arxiv-22-jitter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Jitter does matter: Adapting gaze estimation to new domains
 <p style="line-height:1.0">
@@ -94,5 +114,7 @@ arXiv preprint arXiv:2210.02082 <br />
 <br />
 </font>
 </p>
+</div>
+</div
 <br />
 
