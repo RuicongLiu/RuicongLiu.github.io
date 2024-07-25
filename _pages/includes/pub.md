@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 -----
-<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-actionvos.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-actionvos.png" width="300" height="230">
 ### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
@@ -14,7 +14,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-mae.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-mae.png" width="300" height="230">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
 <p style="line-height:1.0">
 <font size="2">
@@ -26,7 +26,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/cvpr-24-s2dhand.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/cvpr-24-s2dhand.png" width="300" height="230">
 ### Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation
 <p style="line-height:1.0">
 <font size="2">
@@ -40,7 +40,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/tpami-24-pnpga+.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/tpami-24-pnpga+.png" width="300" height="230">
 ### PnP-GA+: Plug-and-Play Domain Adaptation for Gaze Estimation using Model Variants
 <p style="line-height:1.0">
 <font size="2">
@@ -52,7 +52,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/aaai-24-uvagaze.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/aaai-24-uvagaze.png" width="300" height="230">
 ### UVAGaze: Unsupervised 1-to-2 Views Adaptation for Gaze Estimation
 <p style="line-height:1.0">
 <font size="2">
@@ -65,7 +65,7 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/iccv-21.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/iccv-21.png" width="300" height="230">
 ### Generalizing gaze estimation with outlier-guided collaborative adaptation
 <p style="line-height:1.0">
 <font size="2">
@@ -78,7 +78,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/arxiv-22-jitter.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/arxiv-22-jitter.png" width="300" height="230">
 ### Jitter does matter: Adapting gaze estimation to new domains
 <p style="line-height:1.0">
 <font size="2">
