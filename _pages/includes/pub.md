@@ -1,11 +1,9 @@
 
 # 📝 Publications 
 -----
-<div style="float: left; margin:5px 10px position: relative; display: inline-block;">
+<div>
+<div class="badge">ECCV 2024</div>
 <img style="float: left; margin:5px 10px" src="images/papers/eccv-24-actionvos.png" width="260" height="200">
-<div style="position: absolute; top: 0; left: 0; background: #000080; color: white; padding: 5px 10px; font-family: Arial, sans-serif; font-size: 3px;">
-    ECCV 2024
-  </div>
 </div>
 ### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
