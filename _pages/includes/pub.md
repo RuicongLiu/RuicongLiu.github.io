@@ -65,7 +65,7 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/papers/iccv-21.png" width="210" height="160">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img style="float: left; margin:5px 10px" src="images/papers/iccv-21.png" width="210" height="160"></div></div>
 ### Generalizing gaze estimation with outlier-guided collaborative adaptation
 <p style="line-height:1.0">
 <font size="2">
