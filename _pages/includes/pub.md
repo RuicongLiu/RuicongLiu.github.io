@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 -----
-<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-actionvos.png" width="210" height="200">
+<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-actionvos.png" width="210" height="160">
 ### ActionVOS: Actions as Prompts for Video Object Segmentation
 <p style="line-height:1.0">
 <font size="2">
@@ -14,7 +14,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
 </p>
 <br />
 
-<img style="float: left; margin:5px 10px" src="images/500x300.png" width="210" height="160">
+<img style="float: left; margin:5px 10px" src="images/papers/eccv-24-mae.png" width="210" height="160">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
 <p style="line-height:1.0">
 <font size="2">
