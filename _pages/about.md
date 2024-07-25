@@ -27,7 +27,9 @@ redirect_from:
 
 {% include_relative includes/edu.md %}
 
-<div id="clustrmaps-container" style="width: 280px; height: 200px;">
+
+
+<div id="clustrmaps-container" style="display: flex; justify-content: center; align-items: center;" style="width: 280px; height: 200px;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UBZjxLR8-IEyUg-87Gwe1QdUBb5_7pVF0aI2ReETFso&cl=ffffff&w=a"></script>
 </div>
 
