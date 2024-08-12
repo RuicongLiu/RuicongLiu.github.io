@@ -8,7 +8,7 @@
 <p style="line-height:1.0">
 <font size="2">
 Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoichi Sato <br />
-European Conference on Computer Vision (<strong>ECCV</strong>), 2024<br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <font color="red"><b><i>Oral 3%</i></b></font><br />
 <a href="https://arxiv.org/pdf/2407.07402">Paper</a> | 
 <a href="https://github.com/ut-vision/ActionVOS">Code</a>
 <br />
