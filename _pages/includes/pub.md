@@ -8,7 +8,7 @@
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ruicong Liu</strong>, Haofei Wang, Feng Lu <br />
-International Journal of Computer Vision <br /> 
+International Journal of Computer Vision (<strong>IJCV</strong>), 2024 <br /> 
 <!-- <a href="https://arxiv.org/pdf/2210.02082">Paper</a>  -->
 <br />
 </font>
