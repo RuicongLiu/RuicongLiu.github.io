@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 -----
-<div class='paper-box'><div class='paper-box-image'><div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div>
 <img src='images/papers/ijcv-24-jitter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### From Gaze Jitter to Domain Adaptation: Generalizing Gaze Estimation by Manipulating High-Frequency Components
