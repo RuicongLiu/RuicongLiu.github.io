@@ -26,6 +26,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024 <br />
 Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoichi Sato <br />
 European Conference on Computer Vision (<strong>ECCV</strong>), 2024   <font color="red"><b>Oral, top 2%</b></font><br />
 <a href="https://arxiv.org/pdf/2407.07402">Paper</a> | 
+<a href="https://www.youtube.com/watch?v=dt-zDQKzq1I">Video</a> | 
 <a href="https://github.com/ut-vision/ActionVOS">Code</a>
 <br />
 </font>
@@ -42,7 +43,9 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024   <font col
 <font size="2">
 Mingfang Zhang, Yifei Huang, <strong>Ruicong Liu</strong>, Yoichi Sato <br />
 European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br /> 
-<a href="https://arxiv.org/pdf/2407.06628">Paper</a> 
+<a href="https://arxiv.org/pdf/2407.06628">Paper</a> |
+<a href="https://www.youtube.com/watch?v=03vFGIf56vo">Video</a> |
+<a href="https://github.com/mf-zhang/IMU-Video-MAE">Code</a>
 <br />
 </font>
 </p>
