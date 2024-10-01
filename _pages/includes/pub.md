@@ -9,7 +9,7 @@
 <font size="2">
 <strong>Ruicong Liu</strong>, Haofei Wang, Feng Lu <br />
 International Journal of Computer Vision (<strong>IJCV</strong>), 2024 <br /> 
-<!-- <a href="https://arxiv.org/pdf/2210.02082">Paper</a>  -->
+<a href="https://link.springer.com/article/10.1007/s11263-024-02233-1">Paper</a> 
 <br />
 </font>
 </p>
@@ -24,7 +24,7 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024 <br />
 <p style="line-height:1.0">
 <font size="2">
 Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yifei Huang, Ryosuke Furuta, Yoichi Sato <br />
-European Conference on Computer Vision (<strong>ECCV</strong>), 2024   <font color="red"><b>Oral, top 3%</b></font><br />
+European Conference on Computer Vision (<strong>ECCV</strong>), 2024   <font color="red"><b>Oral, top 2%</b></font><br />
 <a href="https://arxiv.org/pdf/2407.07402">Paper</a> | 
 <a href="https://github.com/ut-vision/ActionVOS">Code</a>
 <br />
