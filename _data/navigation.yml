@@ -12,6 +12,9 @@ main:
   - title: "Experiences"
     url: "/#-experiences"
 
+  - title: "Awards"
+    url: "/#-awards"
+
   - title: "Educations"
     url: "/#-educations"
 
