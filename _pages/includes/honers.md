@@ -7,4 +7,4 @@
 - Outstanding Graduate Student of Beihang University, 2023.
 - Bachelor of Honours of Shandong University, 2020.
 - Outstanding Graduate Student of Shandong University, 2020.
-- National Scholarship, the ministry of Education of China, 2017.
+- National Scholarship, the Ministry of Education of China, 2017.
