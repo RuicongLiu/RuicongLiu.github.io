@@ -8,7 +8,7 @@
 <p style="line-height:1.0">
 <font size="2">
 National University of Singapore <br />
-March 2024 - Present
+March 2024 - November 2024
 <br />
 </font>
 </p>
