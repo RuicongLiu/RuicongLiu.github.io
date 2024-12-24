@@ -1,6 +1,6 @@
 # 🔥 News
 ----
-- *[December, 2024]*: &nbsp;🎉 I am luckily accepted by SPS Research Fellowship for Young Scientists DC2.
+- *[December, 2024]*: &nbsp;🎉 I am luckily accepted by [JSPS Research Fellowship for Young Scientists DC2](https://www.jsps.go.jp/).
 - *[August, 2024]*: &nbsp;🎉 One paper has been accepted by [IJCV](https://link.springer.com/journal/11263).
 - *[August, 2024]*:  🎉 Our [AssemblyHands-S2D](https://hands-workshop.org/challenge2024.html) challenge has been open.
 - *[July, 2024]*:  🎉 Two [ECCV](https://eccv2024.ecva.net/) papers have been accepted. One of them is accepted as **Oral presentation**!
