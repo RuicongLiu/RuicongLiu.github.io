@@ -1,5 +1,6 @@
 # 🏆 Awards
 -----
+- JSPS Research Fellowship for Young Scientists DC2, 2025
 - Outstanding Master's Thesis at BSIG 2024.
 - [CVPR Outstanding Reviewer Award](https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000z352/20hQ1juBJfi), 2024. 
 - [SPRING GX Project](https://www.cis-trans.jp/spring_gx/index-e.html), 2024.
