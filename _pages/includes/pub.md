@@ -1,6 +1,23 @@
 
 # 📝 Publications 
 -----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
+<img src='images/papers/ijcv-24-jitter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+### Egocentric Inertial Localization with Vision-Language Informed Action Cues
+<p style="line-height:1.0">
+<font size="2">
+Mingfang Zhang, Ryo Yonetani, Yifei Huang, Liangyang Ouyang, <strong>Ruicong Liu</strong>, Yoichi Sato<br />
+IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2025 <br /> 
+<a href="https://arxiv.org/pdf/2505.14346">Paper</a> | 
+<a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a>
+<br />
+</font>
+</p>
+</div>
+</div>
+<br />
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div>
 <img src='images/papers/ijcv-24-jitter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
