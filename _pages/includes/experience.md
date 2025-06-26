@@ -17,5 +17,5 @@ March 2024 - November 2024
 <br />
 
 ## Services:
-- Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ACM MM, BMVC
+- Conference Reviewer: CVPR, ECCV, ICCV, NeurIPS, ACM MM, WACV, BMVC
 - Journal Reviewer: TMM
