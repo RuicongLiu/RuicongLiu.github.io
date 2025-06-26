@@ -2,7 +2,7 @@
 # 📝 Publications 
 -----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
-<img src='images/papers/ijcv-24-jitter.png' alt="sym" width="100%"></div></div>
+<img src='images/papers/iccv-25-imu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Egocentric Inertial Localization with Vision-Language Informed Action Cues
 <p style="line-height:1.0">
