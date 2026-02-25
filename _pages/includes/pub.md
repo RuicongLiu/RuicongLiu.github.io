@@ -25,9 +25,9 @@
 ### UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking
 <p style="line-height:1.0">
 <font size="2">
-Xuangeng Chu*, <strong>Ruicong Liu*</strong>, Yifei Huang, Yun Liu, Yichen Peng, Bo Zheng <br />
+Xuangeng Chu*, <strong>Ruicong Liu<sup>* †</sup></strong>, Yifei Huang, Yun Liu, Yichen Peng, Bo Zheng <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
-<a href="https://arxiv.org/pdf/2512.09327">Paper</a> | 
+<a href="https://arxiv.org/pdf/2512.09327">Paper</a> 
 <!-- <a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
 <br />
 </font>
