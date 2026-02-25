@@ -17,7 +17,6 @@
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
 <img src='images/papers/cvpr-26-unils.png' alt="sym" width="100%"></div></div>
@@ -34,7 +33,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
 <img src='images/papers/cvpr-26-dyadit.png' alt="sym" width="100%"></div></div>
@@ -51,7 +49,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
 <img src='images/papers/iccv-25-imu.png' alt="sym" width="100%"></div></div>
@@ -68,7 +65,6 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div>
 <img src='images/papers/ijcv-24-jitter.png' alt="sym" width="100%"></div></div>
@@ -84,7 +80,6 @@ International Journal of Computer Vision (<strong>IJCV</strong>), 2024 <br />
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div>
 <img src='images/papers/eccv-24-actionvos.png' alt="sym" width="100%"></div></div>
@@ -102,7 +97,6 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024   <font col
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div>
 <img src='images/papers/eccv-24-mae.png' alt="sym" width="100%"></div></div>
@@ -120,7 +114,6 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div>
 <img src='images/papers/cvpr-24-s2dhand.png' alt="sym" width="100%"></div></div>
@@ -138,7 +131,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div>
 <img src='images/papers/tpami-24-pnpga+.png' alt="sym" width="100%"></div></div>
@@ -154,7 +146,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</s
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div>
 <img src='images/papers/aaai-24-uvagaze.png' alt="sym" width="100%"></div></div>
@@ -171,7 +162,6 @@ AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024 <br />
 </p>
 </div>
 </div>
-<br />
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div>
 <img src='images/papers/iccv-21.png' alt="sym" width="100%"></div></div>
@@ -188,7 +178,6 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </p>
 </div>
 </div>
-<br />
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div>
 <img src='images/papers/arxiv-22-jitter.png' alt="sym" width="100%"></div></div>
@@ -203,6 +192,5 @@ arXiv preprint arXiv:2210.02082 <br />
 </font>
 </p>
 </div>
-</div>
-<br /> -->
+</div> -->
 
