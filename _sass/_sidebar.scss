@@ -94,8 +94,9 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 4px;
+      border: 2px solid #e0e4e8;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
     }
   }
 }
@@ -146,6 +147,7 @@
 
 .author__bio {
   margin: 0;
+  color: #555;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -252,9 +254,11 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    transition: color 0.25s ease;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color;
+      text-decoration: none;
     }
   }
 }
