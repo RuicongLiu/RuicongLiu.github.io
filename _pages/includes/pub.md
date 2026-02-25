@@ -1,6 +1,58 @@
 
 # 📝 Publications 
 -----
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div> -->
+<img src='images/papers/arxiv-25-sfhand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+### SFHand: A Streaming Framework for Language-guided 3D Hand Forecasting and Embodied Manipulation
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ruicong Liu</strong>, Yifei Huang, Liangyang Ouyang, Caixin Kang, Yoichi Sato <br />
+<!-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br /> -->
+<a href="https://arxiv.org/pdf/2511.18127">Paper</a> | 
+<a href="https://github.com/ut-vision/SFHand">Code</a> | 
+<a href="https://huggingface.co/datasets/ut-vision/EgoHaFL">Dataset</a>
+<br />
+</font>
+</p>
+</div>
+</div>
+<br />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
+<img src='images/papers/cvpr-26-unils.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+### UniLS: End-to-End Audio-Driven Avatars for Unified Listening and Speaking
+<p style="line-height:1.0">
+<font size="2">
+Xuangeng Chu*, <strong>Ruicong Liu*</strong>, Yifei Huang, Yun Liu, Yichen Peng, Bo Zheng <br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
+<a href="https://arxiv.org/pdf/2512.09327">Paper</a> | 
+<!-- <a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
+<br />
+</font>
+</p>
+</div>
+</div>
+<br />
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
+<img src='images/papers/cvpr-26-dyadit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+### DyaDiT: A Multi-Modal Diffusion Transformer for Socially-Aware Dyadic Gesture Generation
+<p style="line-height:1.0">
+<font size="2">
+Yichen Peng, Jyun-Ting Song, Siyeol Jung, RUOFAN LIU, Haiyang Liu, Xuangeng Chu, <strong>Ruicong Liu</strong>, Erwin Wu, Hideki Koike, Kris Kitani<br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
+<!-- <a href="https://arxiv.org/pdf/2505.14346">Paper</a> | 
+<a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
+<br />
+</font>
+</p>
+</div>
+</div>
+<br />
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
 <img src='images/papers/iccv-25-imu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

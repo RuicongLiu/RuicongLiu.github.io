@@ -1,5 +1,6 @@
 # 🔥 News
 ----
+- *[February, 2026]*: &nbsp;🎉 Two paper has been accepted by [CVPR](https://cvpr.thecvf.com/) 2026.
 - *[June, 2025]*: &nbsp;🎉 One paper has been accepted by [ICCV](https://iccv.thecvf.com/) 2025.
 - *[December, 2024]*: &nbsp;🎉 I am luckily accepted by [JSPS Research Fellowship for Young Scientists DC2](https://www.jsps.go.jp/).
 - *[August, 2024]*: &nbsp;🎉 One paper has been accepted by [IJCV](https://link.springer.com/journal/11263).
