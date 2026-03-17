@@ -42,8 +42,8 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <font size="2">
 Yichen Peng, Jyun-Ting Song, Siyeol Jung, RUOFAN LIU, Haiyang Liu, Xuangeng Chu, <strong>Ruicong Liu</strong>, Erwin Wu, Hideki Koike, Kris Kitani<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
-<!-- <a href="https://arxiv.org/pdf/2505.14346">Paper</a> | 
-<a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
+<a href="https://arxiv.org/pdf/2602.23165">Paper</a>
+<!-- <a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
 <br />
 </font>
 </p>
