@@ -26,8 +26,9 @@
 <font size="2">
 Xuangeng Chu*, <strong>Ruicong Liu<sup>* †</sup></strong>, Yifei Huang, Yun Liu, Yichen Peng, Bo Zheng <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
+<a href="https://xg-chu.site/project_unils/">Project page</a> 
 <a href="https://arxiv.org/pdf/2512.09327">Paper</a> 
-<!-- <a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
+<a href="https://github.com/xg-chu/UniLS">Code</a>
 <br />
 </font>
 </p>
@@ -42,6 +43,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 <font size="2">
 Yichen Peng, Jyun-Ting Song, Siyeol Jung, Ruofan Liu, Haiyang Liu, Xuangeng Chu, <strong>Ruicong Liu</strong>, Erwin Wu, Hideki Koike, Kris Kitani<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
+<a href="https://puckikk1202.github.io/dyadit_hp/">Project page</a>
 <a href="https://arxiv.org/pdf/2602.23165">Paper</a>
 <!-- <a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
 <br />
