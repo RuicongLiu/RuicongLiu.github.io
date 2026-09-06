@@ -1,14 +1,14 @@
 
 # 📝 Publications 
 -----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div>
 <img src='images/papers/arxiv-25-sfhand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-### SFHand: A Streaming Framework for Language-guided 3D Hand Forecasting and Embodied Manipulation
+### Predictive Representation Learning for Manipulation via Streaming Egocentric 3D Hand Forecasting
 <p style="line-height:1.0">
 <font size="2">
 <strong>Ruicong Liu</strong>, Yifei Huang, Liangyang Ouyang, Caixin Kang, Yoichi Sato <br />
-<!-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br /> -->
+10th Annual Conference on Robot Learning (<strong>CoRL</strong>), 2026 <br />
 <a href="https://arxiv.org/pdf/2511.18127">Paper</a> | 
 <a href="https://github.com/ut-vision/SFHand">Code</a> | 
 <a href="https://huggingface.co/datasets/ut-vision/EgoHaFL">Dataset</a>

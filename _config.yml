@@ -24,8 +24,9 @@ author:
   avatar           : "avatar.png"
   name             : "Ruicong Liu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Sato lab@UTokyo"
+  bio              : "AI Researcher, PhD from UTokyo"
   location         : "Tokyo, Japan"
+  employer         : "Alaya Lab"
   employer         : "The University of Tokyo"
   uri              : # URL
   email            : "lruicong@ut-vision.org"
