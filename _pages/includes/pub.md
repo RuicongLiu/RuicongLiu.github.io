@@ -18,6 +18,23 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div>
+<img src='images/papers/neurips-26-socialdirector.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+### SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation
+<p style="line-height:1.0">
+<font size="2">
+Liangyang Ouyang, <strong>Ruicong Liu</strong>, Caixin Kang, Yifei Huang, Yoichi Sato <br />
+The Fortieth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
+<a href="https://arxiv.org/pdf/2605.10079">Paper</a> | 
+<a href="https://github.com/ut-vision/SocialDirector">Code</a> | 
+<a href="https://huggingface.co/datasets/oyly/SocialDirector-Dataset">Dataset</a>
+<br />
+</font>
+</p>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
 <img src='images/papers/cvpr-26-unils.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,7 +52,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div>
 <img src='images/papers/cvpr-26-dyadit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### DyaDiT: A Multi-Modal Diffusion Transformer for Socially-Aware Dyadic Gesture Generation
@@ -50,9 +67,9 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
 <img src='images/papers/iccv-25-imu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Egocentric Inertial Localization with Vision-Language Informed Action Cues
@@ -66,7 +83,7 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </font>
 </p>
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div>
 <img src='images/papers/ijcv-24-jitter.png' alt="sym" width="100%"></div></div>
@@ -100,7 +117,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024   <font col
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div>
 <img src='images/papers/eccv-24-mae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ### Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition
@@ -115,7 +132,7 @@ European Conference on Computer Vision (<strong>ECCV</strong>), 2024 <br />
 </font>
 </p>
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div>
 <img src='images/papers/cvpr-24-s2dhand.png' alt="sym" width="100%"></div></div>

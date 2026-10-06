@@ -1,11 +1,11 @@
 # 🔥 News
 ----
-- *[September, 2026]*: &nbsp;🎉 One paper has been accepted by [CoRL](https://www.corl.org/).
+- *[September, 2026]*: &nbsp;🎉 Two paper have been accepted by [CoRL](https://www.corl.org/) and [NeurIPS](https://neurips.cc/).
 - *[March, 2026]*: &nbsp;🎉 Joined [Alaya Lab](https://alayalab.ai/) as AI Researcher.
 - *[March, 2026]*: &nbsp;🎉 Received Ph.D. in Information Science from the University of Tokyo.
 - *[February, 2026]*: &nbsp;🎉 Two papers have been accepted by [CVPR](https://cvpr.thecvf.com/) 2026.
 - *[June, 2025]*: &nbsp;🎉 One paper has been accepted by [ICCV](https://iccv.thecvf.com/) 2025.
-- *[December, 2024]*: &nbsp;🎉 I am luckily accepted by [JSPS Research Fellowship for Young Scientists DC2](https://www.jsps.go.jp/).
+<!-- - *[December, 2024]*: &nbsp;🎉 I am luckily accepted by [JSPS Research Fellowship for Young Scientists DC2](https://www.jsps.go.jp/). -->
 <!-- - *[August, 2024]*: &nbsp;🎉 One paper has been accepted by [IJCV](https://link.springer.com/journal/11263). -->
 <!-- - *[August, 2024]*:  🎉 Our [AssemblyHands-S2D](https://hands-workshop.org/challenge2024.html) challenge has been open. -->
 <!-- - *[July, 2024]*:  🎉 Two [ECCV](https://eccv2024.ecva.net/) papers have been accepted. One of them is accepted as **Oral presentation**! -->
