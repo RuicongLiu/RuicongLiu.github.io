@@ -67,7 +67,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</st
 </font>
 </p>
 </div>
-</div> --> -->
+</div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
 <img src='images/papers/iccv-25-imu.png' alt="sym" width="100%"></div></div>
@@ -197,19 +197,4 @@ IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 20
 </p>
 </div>
 </div>
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div>
-<img src='images/papers/arxiv-22-jitter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-### Jitter does matter: Adapting gaze estimation to new domains
-<p style="line-height:1.0">
-<font size="2">
-<strong>Ruicong Liu</strong>, Yiwei Bao, Mingjie Xu, Haofei Wang, Yunfei Liu, Feng Lu <br />
-arXiv preprint arXiv:2210.02082 <br /> 
-<a href="https://arxiv.org/pdf/2210.02082">Paper</a> 
-<br />
-</font>
-</p>
-</div>
-</div> -->
 
