@@ -24,7 +24,7 @@
 ### SocialDirector: Training-Free Social Interaction Control for Multi-Person Video Generation
 <p style="line-height:1.0">
 <font size="2">
-Liangyang Ouyang, <strong>Ruicong Liu</strong>, Caixin Kang, Yifei Huang, Yoichi Sato <br />
+Liangyang Ouyang, <strong>Ruicong Liu<sup>†</sup></strong>, Caixin Kang, Yifei Huang, Yoichi Sato <br />
 The Fortieth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026 <br />
 <a href="https://arxiv.org/pdf/2605.10079">Paper</a> | 
 <a href="https://github.com/ut-vision/SocialDirector">Code</a> | 
