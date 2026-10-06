@@ -62,12 +62,12 @@ Yichen Peng, Jyun-Ting Song, Siyeol Jung, Ruofan Liu, Haiyang Liu, Xuangeng Chu,
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
 <a href="https://puckikk1202.github.io/dyadit_hp/">Project page</a>
 <a href="https://arxiv.org/pdf/2602.23165">Paper</a>
-<!-- <a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a> -->
+<a href="https://github.com/mf-zhang/Ego-Inertial-Localization">Code</a>
 <br />
 </font>
 </p>
 </div>
-</div> -->
+</div> --> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div>
 <img src='images/papers/iccv-25-imu.png' alt="sym" width="100%"></div></div>
