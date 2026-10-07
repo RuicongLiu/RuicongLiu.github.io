@@ -1,6 +1,6 @@
 # 🔥 News
 ----
-- *[September, 2026]*: &nbsp;🎉 Two paper have been accepted by [CoRL](https://www.corl.org/) and [NeurIPS](https://neurips.cc/).
+- *[September, 2026]*: &nbsp;🎉 Two papers have been accepted by [CoRL](https://www.corl.org/) and [NeurIPS](https://neurips.cc/).
 - *[March, 2026]*: &nbsp;🎉 Joined [Alaya Lab](https://alayalab.ai/) as AI Researcher.
 - *[March, 2026]*: &nbsp;🎉 Received Ph.D. in Information Science from the University of Tokyo.
 - *[February, 2026]*: &nbsp;🎉 Two papers have been accepted by [CVPR](https://cvpr.thecvf.com/) 2026.
