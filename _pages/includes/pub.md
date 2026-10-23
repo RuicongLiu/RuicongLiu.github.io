@@ -1,6 +1,23 @@
 
 # 📝 Publications 
 -----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div>
+<img src='images/papers/arxiv-26-anygamerenderer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+### AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark
+<p style="line-height:1.0">
+<font size="2">
+<strong>Ruicong Liu*</strong>, Liangyang Ouyang, Fengbo Lan, Zhixiang Wang, Kaipeng Zhang <br />
+<!-- 10th Annual Conference on Robot Learning (<strong>CoRL</strong>), 2026 <br /> -->
+<a href="https://alaya-lab.github.io/AnyGameRenderer">Page</a> | 
+<a href="https://arxiv.org/pdf/2610.31466">Paper</a> | 
+<a href="https://github.com/AlayaLab/AnyGameRenderer">Code</a>
+<br />
+</font>
+</p>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div>
 <img src='images/papers/arxiv-25-sfhand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
