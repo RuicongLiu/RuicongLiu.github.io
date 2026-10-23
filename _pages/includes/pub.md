@@ -9,7 +9,7 @@
 <font size="2">
 <strong>Ruicong Liu*</strong>, Liangyang Ouyang*, Fengbo Lan, Zhixiang Wang, Kaipeng Zhang <br />
 <!-- 10th Annual Conference on Robot Learning (<strong>CoRL</strong>), 2026 <br /> -->
-<a href="https://alaya-lab.github.io/AnyGameRenderer">Page</a> | 
+<a href="https://alaya-lab.github.io/AnyGameRenderer">Project page</a> | 
 <a href="https://arxiv.org/pdf/2610.31466">Paper</a> | 
 <a href="https://github.com/AlayaLab/AnyGameRenderer">Code</a>
 <br />
@@ -60,8 +60,8 @@ The Fortieth Annual Conference on Neural Information Processing Systems (<strong
 <font size="2">
 Xuangeng Chu*, <strong>Ruicong Liu<sup>* †</sup></strong>, Yifei Huang, Yun Liu, Yichen Peng, Bo Zheng <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
-<a href="https://xg-chu.site/project_unils/">Project page</a> 
-<a href="https://arxiv.org/pdf/2512.09327">Paper</a> 
+<a href="https://xg-chu.site/project_unils/">Project page</a>  | 
+<a href="https://arxiv.org/pdf/2512.09327">Paper</a>  | 
 <a href="https://github.com/xg-chu/UniLS">Code</a>
 <br />
 </font>
