@@ -61,7 +61,7 @@ The Fortieth Annual Conference on Neural Information Processing Systems (<strong
 Xuangeng Chu*, <strong>Ruicong Liu<sup>* †</sup></strong>, Yifei Huang, Yun Liu, Yichen Peng, Bo Zheng <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026 <br />
 <a href="https://xg-chu.site/project_unils/">Project page</a>  | 
-<a href="https://arxiv.org/pdf/2512.09327">Paper</a>  | 
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Chu_UniLS_End-to-End_Audio-Driven_Avatars_for_Unified_Listening_and_Speaking_CVPR_2026_paper.pdf">Paper</a>  | 
 <a href="https://github.com/xg-chu/UniLS">Code</a>
 <br />
 </font>
