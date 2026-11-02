@@ -26,6 +26,7 @@
 <font size="2">
 <strong>Ruicong Liu</strong>, Yifei Huang, Liangyang Ouyang, Caixin Kang, Yoichi Sato <br />
 10th Annual Conference on Robot Learning (<strong>CoRL</strong>), 2026 <br />
+<a href="https://ruicongliu.github.io/sfhand/">Project page</a> |
 <a href="https://arxiv.org/pdf/2511.18127">Paper</a> | 
 <a href="https://github.com/ut-vision/SFHand">Code</a> | 
 <a href="https://huggingface.co/datasets/ut-vision/EgoHaFL">Dataset</a>
